@@ -1,3 +1,4 @@
+// dashboard/page.js
 import { wait } from "@/lib/wait";
 
 export default async function PageDashboard() {

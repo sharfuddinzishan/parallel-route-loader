@@ -1,3 +1,4 @@
+// dashboard/@quiz/default.js
 export default function PageQuizDefault() {
   return (
     <>

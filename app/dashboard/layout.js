@@ -1,3 +1,4 @@
+// dashboard/layout.js
 export default function LayoutDashboardS({
   children,
   assignments,

@@ -1,6 +1,7 @@
+// dashboard/@assignments/page.js
 import { wait } from "@/lib/wait";
 
-export default async function PageAssignemts() {
+export default async function PageAssignements() {
   await wait(2000);
   return (
     <>

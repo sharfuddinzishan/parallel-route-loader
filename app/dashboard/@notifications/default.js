@@ -1,3 +1,4 @@
+// dashboard/@notifications/default.js
 import Link from "next/link";
 
 export default function PageNotificationsDefault() {

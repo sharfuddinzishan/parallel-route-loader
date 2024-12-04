@@ -1,3 +1,4 @@
+// dashboard/@notifications/page.js
 import { wait } from "@/lib/wait";
 import Link from "next/link";
 

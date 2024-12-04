@@ -1,3 +1,4 @@
+// dashboard/@assignments/default.js
 export default function PageAssignemtsDefault() {
   return (
     <>

@@ -1,3 +1,4 @@
+// dashboard/settings/page.js
 export default function Page() {
   return (
     <>
