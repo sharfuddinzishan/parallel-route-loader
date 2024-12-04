@@ -1,4 +1,5 @@
 // dashboard/@assignments/page.js
+export const dynamic = "force-dynamic";
 import { wait } from "@/lib/wait";
 
 export default async function PageAssignements() {

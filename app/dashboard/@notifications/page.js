@@ -1,4 +1,6 @@
 // dashboard/@notifications/page.js
+export const dynamic = "force-dynamic";
+
 import { wait } from "@/lib/wait";
 import Link from "next/link";
 
